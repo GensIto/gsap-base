@@ -1,0 +1,13 @@
+body {
+    height: 300vh;
+}
+
+.js-demo-section {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+.active {
+    background-color: antiquewhite;
+}
